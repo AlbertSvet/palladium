@@ -403,16 +403,16 @@
   }
 }
 .main__slide--services {
-  background-image: url("/img/sl1.png");
+  background-image: url("../img/sl1.png");
 }
 .main__slide--species {
-  background-image: url("/img/sl2.png");
+  background-image: url("../img/sl2.png");
 }
 .main__slide--design {
-  background-image: url("/img/sl3.png");
+  background-image: url("../img/sl3.png");
 }
 .main__slide--repair {
-  background-image: url("/img/sl4.png");
+  background-image: url("../img/sl4.png");
 }
 .main__btn-block {
   width: 207px;
