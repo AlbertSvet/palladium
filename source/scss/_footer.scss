@@ -1,0 +1,36 @@
+.footer {
+    padding-top: 135px;
+    padding-bottom: 24px;
+    // .footer__container
+
+    &__container {}
+
+    // .footer__flex
+
+    &__flex {
+        display: flex;
+        justify-content: space-between;
+        border-top: 1px solid rgb(34, 34, 34);
+        padding-top: 24.5px;
+        font-family: Montserrat;
+        font-weight: 400;
+        font-size: 13px;
+        span{
+            font-family: Gilroy;
+            font-weight: 800;
+            font-size: 14px;
+        }
+    }
+
+    // .footer__text
+
+    &__text {}
+
+    // .footer__subtext
+
+    &__subtext {}
+}
+
+
+
+
